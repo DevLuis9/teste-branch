@@ -1,2 +1,2 @@
-# teste-branch
- testando a funcionalidade branch.
+# projeto-site
+ Projeto de um site criado durante o curso de Git e GitHub
